@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\C__.dir\\cpp\\DatabaseLogger&DatabaseLoggerFactory.cpp.obj",
+            "outputs": [
+                "C:\\Users\\chanb\\Desktop\\practice\\C++\\cmake-build-debug-visual-studio\\vc140.pdb",
+                "CMakeFiles\\C__.dir\\cpp\\DatabaseLogger&DatabaseLoggerFactory.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

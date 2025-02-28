@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/chanb/Desktop/practice/C++/cmake-build-debug-visual-studio",
+	"dir-cur-src" : "C:/Users/chanb/Desktop/practice/C++",
+	"dir-top-bld" : "C:/Users/chanb/Desktop/practice/C++/cmake-build-debug-visual-studio",
+	"dir-top-src" : "C:/Users/chanb/Desktop/practice/C++",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\vcpkg\\installed\\x64-windows\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/chanb/Desktop/practice/C++/cmake-build-debug-visual-studio/CMakeFiles/C__.dir"
+}

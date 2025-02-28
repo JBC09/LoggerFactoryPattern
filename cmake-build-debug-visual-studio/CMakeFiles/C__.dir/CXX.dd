@@ -1,0 +1,11 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\C__.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\C__.dir\cpp\LoggerAndLoggerFactory.cpp.obj: dyndep
+
+build CMakeFiles\C__.dir\cpp\Time.cpp.obj: dyndep
+
+build CMakeFiles\C__.dir\cpp\FileLoggerAndFileLoggerFactory.cpp.obj: dyndep
+
+build CMakeFiles\C__.dir\cpp\DatabaseLoggerAndDatabaseLoggerFactory.cpp.obj: dyndep
+
